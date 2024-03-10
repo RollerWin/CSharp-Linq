@@ -1,0 +1,14 @@
+D:\Soft\учёба\новыйЯЮниор\LINQ\findCriminals\bin\Debug\net8.0\findCriminals.exe
+D:\Soft\учёба\новыйЯЮниор\LINQ\findCriminals\bin\Debug\net8.0\findCriminals.deps.json
+D:\Soft\учёба\новыйЯЮниор\LINQ\findCriminals\bin\Debug\net8.0\findCriminals.runtimeconfig.json
+D:\Soft\учёба\новыйЯЮниор\LINQ\findCriminals\bin\Debug\net8.0\findCriminals.dll
+D:\Soft\учёба\новыйЯЮниор\LINQ\findCriminals\bin\Debug\net8.0\findCriminals.pdb
+D:\Soft\учёба\новыйЯЮниор\LINQ\findCriminals\obj\Debug\net8.0\findCriminals.GeneratedMSBuildEditorConfig.editorconfig
+D:\Soft\учёба\новыйЯЮниор\LINQ\findCriminals\obj\Debug\net8.0\findCriminals.AssemblyInfoInputs.cache
+D:\Soft\учёба\новыйЯЮниор\LINQ\findCriminals\obj\Debug\net8.0\findCriminals.AssemblyInfo.cs
+D:\Soft\учёба\новыйЯЮниор\LINQ\findCriminals\obj\Debug\net8.0\findCriminals.csproj.CoreCompileInputs.cache
+D:\Soft\учёба\новыйЯЮниор\LINQ\findCriminals\obj\Debug\net8.0\findCriminals.dll
+D:\Soft\учёба\новыйЯЮниор\LINQ\findCriminals\obj\Debug\net8.0\refint\findCriminals.dll
+D:\Soft\учёба\новыйЯЮниор\LINQ\findCriminals\obj\Debug\net8.0\findCriminals.pdb
+D:\Soft\учёба\новыйЯЮниор\LINQ\findCriminals\obj\Debug\net8.0\findCriminals.genruntimeconfig.cache
+D:\Soft\учёба\новыйЯЮниор\LINQ\findCriminals\obj\Debug\net8.0\ref\findCriminals.dll
