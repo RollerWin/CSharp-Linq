@@ -138,9 +138,11 @@ class Hospital
         foreach (Disease disease in Enum.GetValues(typeof(Disease)))
             Console.WriteLine($"{(int)disease}. {disease}");
 
-        Console.Write("Введите номер болезни: ");
+        Console.Write("Введите название болезни: ");
+
+        string userInput = Console.ReadLine();
         
-        if (Enum.TryParse(Console.ReadLine(), out Disease selectedDisease))
+        if (Enum.TryParse(userInput, out Disease selectedDisease))
             _database.FilterByDisease(selectedDisease);
         else
             Console.WriteLine("Некорректный ввод!");
