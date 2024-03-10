@@ -45,7 +45,7 @@ class Database
 
     public void AmnestyPrisoners(Crime crime)
     {
-        var freePrisoners = _prisoners.Where(prisoner => prisoner.Crime == crime).Select(prisoner => prisoner);
+        var freePrisoners = _prisoners.Where(prisoner => prisoner.Crime == crime);
         _prisoners = _prisoners.Except(freePrisoners).ToList();
     }
 

@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Amnesty")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d6bdf3cf57d5e99e5f3a0b5886e2ef9d7ff8c2d5")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+aa0b392228613405969b409059d53eda076e8c81")]
 [assembly: System.Reflection.AssemblyProductAttribute("Amnesty")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Amnesty")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
