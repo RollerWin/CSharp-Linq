@@ -1,0 +1,15 @@
+D:\Soft\учёба\новыйЯЮниор\LINQ\hospital\bin\Debug\net8.0\hospital.exe
+D:\Soft\учёба\новыйЯЮниор\LINQ\hospital\bin\Debug\net8.0\hospital.deps.json
+D:\Soft\учёба\новыйЯЮниор\LINQ\hospital\bin\Debug\net8.0\hospital.runtimeconfig.json
+D:\Soft\учёба\новыйЯЮниор\LINQ\hospital\bin\Debug\net8.0\hospital.dll
+D:\Soft\учёба\новыйЯЮниор\LINQ\hospital\bin\Debug\net8.0\hospital.pdb
+D:\Soft\учёба\новыйЯЮниор\LINQ\hospital\obj\Debug\net8.0\hospital.GeneratedMSBuildEditorConfig.editorconfig
+D:\Soft\учёба\новыйЯЮниор\LINQ\hospital\obj\Debug\net8.0\hospital.AssemblyInfoInputs.cache
+D:\Soft\учёба\новыйЯЮниор\LINQ\hospital\obj\Debug\net8.0\hospital.AssemblyInfo.cs
+D:\Soft\учёба\новыйЯЮниор\LINQ\hospital\obj\Debug\net8.0\hospital.csproj.CoreCompileInputs.cache
+D:\Soft\учёба\новыйЯЮниор\LINQ\hospital\obj\Debug\net8.0\hospital.sourcelink.json
+D:\Soft\учёба\новыйЯЮниор\LINQ\hospital\obj\Debug\net8.0\hospital.dll
+D:\Soft\учёба\новыйЯЮниор\LINQ\hospital\obj\Debug\net8.0\refint\hospital.dll
+D:\Soft\учёба\новыйЯЮниор\LINQ\hospital\obj\Debug\net8.0\hospital.pdb
+D:\Soft\учёба\новыйЯЮниор\LINQ\hospital\obj\Debug\net8.0\hospital.genruntimeconfig.cache
+D:\Soft\учёба\новыйЯЮниор\LINQ\hospital\obj\Debug\net8.0\ref\hospital.dll
