@@ -1,0 +1,15 @@
+D:\Soft\учёба\новыйЯЮниор\LINQ\Amnesty\bin\Debug\net8.0\Amnesty.exe
+D:\Soft\учёба\новыйЯЮниор\LINQ\Amnesty\bin\Debug\net8.0\Amnesty.deps.json
+D:\Soft\учёба\новыйЯЮниор\LINQ\Amnesty\bin\Debug\net8.0\Amnesty.runtimeconfig.json
+D:\Soft\учёба\новыйЯЮниор\LINQ\Amnesty\bin\Debug\net8.0\Amnesty.dll
+D:\Soft\учёба\новыйЯЮниор\LINQ\Amnesty\bin\Debug\net8.0\Amnesty.pdb
+D:\Soft\учёба\новыйЯЮниор\LINQ\Amnesty\obj\Debug\net8.0\Amnesty.GeneratedMSBuildEditorConfig.editorconfig
+D:\Soft\учёба\новыйЯЮниор\LINQ\Amnesty\obj\Debug\net8.0\Amnesty.AssemblyInfoInputs.cache
+D:\Soft\учёба\новыйЯЮниор\LINQ\Amnesty\obj\Debug\net8.0\Amnesty.AssemblyInfo.cs
+D:\Soft\учёба\новыйЯЮниор\LINQ\Amnesty\obj\Debug\net8.0\Amnesty.csproj.CoreCompileInputs.cache
+D:\Soft\учёба\новыйЯЮниор\LINQ\Amnesty\obj\Debug\net8.0\Amnesty.sourcelink.json
+D:\Soft\учёба\новыйЯЮниор\LINQ\Amnesty\obj\Debug\net8.0\Amnesty.dll
+D:\Soft\учёба\новыйЯЮниор\LINQ\Amnesty\obj\Debug\net8.0\refint\Amnesty.dll
+D:\Soft\учёба\новыйЯЮниор\LINQ\Amnesty\obj\Debug\net8.0\Amnesty.pdb
+D:\Soft\учёба\новыйЯЮниор\LINQ\Amnesty\obj\Debug\net8.0\Amnesty.genruntimeconfig.cache
+D:\Soft\учёба\новыйЯЮниор\LINQ\Amnesty\obj\Debug\net8.0\ref\Amnesty.dll
