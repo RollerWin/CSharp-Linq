@@ -1,0 +1,15 @@
+D:\Soft\учёба\новыйЯЮниор\LINQ\top-players\bin\Debug\net8.0\top-players.exe
+D:\Soft\учёба\новыйЯЮниор\LINQ\top-players\bin\Debug\net8.0\top-players.deps.json
+D:\Soft\учёба\новыйЯЮниор\LINQ\top-players\bin\Debug\net8.0\top-players.runtimeconfig.json
+D:\Soft\учёба\новыйЯЮниор\LINQ\top-players\bin\Debug\net8.0\top-players.dll
+D:\Soft\учёба\новыйЯЮниор\LINQ\top-players\bin\Debug\net8.0\top-players.pdb
+D:\Soft\учёба\новыйЯЮниор\LINQ\top-players\obj\Debug\net8.0\top-players.GeneratedMSBuildEditorConfig.editorconfig
+D:\Soft\учёба\новыйЯЮниор\LINQ\top-players\obj\Debug\net8.0\top-players.AssemblyInfoInputs.cache
+D:\Soft\учёба\новыйЯЮниор\LINQ\top-players\obj\Debug\net8.0\top-players.AssemblyInfo.cs
+D:\Soft\учёба\новыйЯЮниор\LINQ\top-players\obj\Debug\net8.0\top-players.csproj.CoreCompileInputs.cache
+D:\Soft\учёба\новыйЯЮниор\LINQ\top-players\obj\Debug\net8.0\top-players.sourcelink.json
+D:\Soft\учёба\новыйЯЮниор\LINQ\top-players\obj\Debug\net8.0\top-players.dll
+D:\Soft\учёба\новыйЯЮниор\LINQ\top-players\obj\Debug\net8.0\refint\top-players.dll
+D:\Soft\учёба\новыйЯЮниор\LINQ\top-players\obj\Debug\net8.0\top-players.pdb
+D:\Soft\учёба\новыйЯЮниор\LINQ\top-players\obj\Debug\net8.0\top-players.genruntimeconfig.cache
+D:\Soft\учёба\новыйЯЮниор\LINQ\top-players\obj\Debug\net8.0\ref\top-players.dll
