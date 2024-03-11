@@ -1,0 +1,15 @@
+D:\Soft\учёба\новыйЯЮниор\LINQ\squads\bin\Debug\net8.0\squads.exe
+D:\Soft\учёба\новыйЯЮниор\LINQ\squads\bin\Debug\net8.0\squads.deps.json
+D:\Soft\учёба\новыйЯЮниор\LINQ\squads\bin\Debug\net8.0\squads.runtimeconfig.json
+D:\Soft\учёба\новыйЯЮниор\LINQ\squads\bin\Debug\net8.0\squads.dll
+D:\Soft\учёба\новыйЯЮниор\LINQ\squads\bin\Debug\net8.0\squads.pdb
+D:\Soft\учёба\новыйЯЮниор\LINQ\squads\obj\Debug\net8.0\squads.GeneratedMSBuildEditorConfig.editorconfig
+D:\Soft\учёба\новыйЯЮниор\LINQ\squads\obj\Debug\net8.0\squads.AssemblyInfoInputs.cache
+D:\Soft\учёба\новыйЯЮниор\LINQ\squads\obj\Debug\net8.0\squads.AssemblyInfo.cs
+D:\Soft\учёба\новыйЯЮниор\LINQ\squads\obj\Debug\net8.0\squads.csproj.CoreCompileInputs.cache
+D:\Soft\учёба\новыйЯЮниор\LINQ\squads\obj\Debug\net8.0\squads.sourcelink.json
+D:\Soft\учёба\новыйЯЮниор\LINQ\squads\obj\Debug\net8.0\squads.dll
+D:\Soft\учёба\новыйЯЮниор\LINQ\squads\obj\Debug\net8.0\refint\squads.dll
+D:\Soft\учёба\новыйЯЮниор\LINQ\squads\obj\Debug\net8.0\squads.pdb
+D:\Soft\учёба\новыйЯЮниор\LINQ\squads\obj\Debug\net8.0\squads.genruntimeconfig.cache
+D:\Soft\учёба\новыйЯЮниор\LINQ\squads\obj\Debug\net8.0\ref\squads.dll
