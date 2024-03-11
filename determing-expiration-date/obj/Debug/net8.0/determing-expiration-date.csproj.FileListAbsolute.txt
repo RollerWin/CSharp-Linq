@@ -1,0 +1,15 @@
+D:\Soft\учёба\новыйЯЮниор\LINQ\determing-expiration-date\bin\Debug\net8.0\determing-expiration-date.exe
+D:\Soft\учёба\новыйЯЮниор\LINQ\determing-expiration-date\bin\Debug\net8.0\determing-expiration-date.deps.json
+D:\Soft\учёба\новыйЯЮниор\LINQ\determing-expiration-date\bin\Debug\net8.0\determing-expiration-date.runtimeconfig.json
+D:\Soft\учёба\новыйЯЮниор\LINQ\determing-expiration-date\bin\Debug\net8.0\determing-expiration-date.dll
+D:\Soft\учёба\новыйЯЮниор\LINQ\determing-expiration-date\bin\Debug\net8.0\determing-expiration-date.pdb
+D:\Soft\учёба\новыйЯЮниор\LINQ\determing-expiration-date\obj\Debug\net8.0\determing-expiration-date.GeneratedMSBuildEditorConfig.editorconfig
+D:\Soft\учёба\новыйЯЮниор\LINQ\determing-expiration-date\obj\Debug\net8.0\determing-expiration-date.AssemblyInfoInputs.cache
+D:\Soft\учёба\новыйЯЮниор\LINQ\determing-expiration-date\obj\Debug\net8.0\determing-expiration-date.AssemblyInfo.cs
+D:\Soft\учёба\новыйЯЮниор\LINQ\determing-expiration-date\obj\Debug\net8.0\determing-expiration-date.csproj.CoreCompileInputs.cache
+D:\Soft\учёба\новыйЯЮниор\LINQ\determing-expiration-date\obj\Debug\net8.0\determing-expiration-date.sourcelink.json
+D:\Soft\учёба\новыйЯЮниор\LINQ\determing-expiration-date\obj\Debug\net8.0\determing-expiration-date.dll
+D:\Soft\учёба\новыйЯЮниор\LINQ\determing-expiration-date\obj\Debug\net8.0\refint\determing-expiration-date.dll
+D:\Soft\учёба\новыйЯЮниор\LINQ\determing-expiration-date\obj\Debug\net8.0\determing-expiration-date.pdb
+D:\Soft\учёба\новыйЯЮниор\LINQ\determing-expiration-date\obj\Debug\net8.0\determing-expiration-date.genruntimeconfig.cache
+D:\Soft\учёба\новыйЯЮниор\LINQ\determing-expiration-date\obj\Debug\net8.0\ref\determing-expiration-date.dll
