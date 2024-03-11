@@ -1,0 +1,15 @@
+D:\Soft\учёба\новыйЯЮниор\LINQ\weaponsReport\bin\Debug\net8.0\weaponsReport.exe
+D:\Soft\учёба\новыйЯЮниор\LINQ\weaponsReport\bin\Debug\net8.0\weaponsReport.deps.json
+D:\Soft\учёба\новыйЯЮниор\LINQ\weaponsReport\bin\Debug\net8.0\weaponsReport.runtimeconfig.json
+D:\Soft\учёба\новыйЯЮниор\LINQ\weaponsReport\bin\Debug\net8.0\weaponsReport.dll
+D:\Soft\учёба\новыйЯЮниор\LINQ\weaponsReport\bin\Debug\net8.0\weaponsReport.pdb
+D:\Soft\учёба\новыйЯЮниор\LINQ\weaponsReport\obj\Debug\net8.0\weaponsReport.GeneratedMSBuildEditorConfig.editorconfig
+D:\Soft\учёба\новыйЯЮниор\LINQ\weaponsReport\obj\Debug\net8.0\weaponsReport.AssemblyInfoInputs.cache
+D:\Soft\учёба\новыйЯЮниор\LINQ\weaponsReport\obj\Debug\net8.0\weaponsReport.AssemblyInfo.cs
+D:\Soft\учёба\новыйЯЮниор\LINQ\weaponsReport\obj\Debug\net8.0\weaponsReport.csproj.CoreCompileInputs.cache
+D:\Soft\учёба\новыйЯЮниор\LINQ\weaponsReport\obj\Debug\net8.0\weaponsReport.sourcelink.json
+D:\Soft\учёба\новыйЯЮниор\LINQ\weaponsReport\obj\Debug\net8.0\weaponsReport.dll
+D:\Soft\учёба\новыйЯЮниор\LINQ\weaponsReport\obj\Debug\net8.0\refint\weaponsReport.dll
+D:\Soft\учёба\новыйЯЮниор\LINQ\weaponsReport\obj\Debug\net8.0\weaponsReport.pdb
+D:\Soft\учёба\новыйЯЮниор\LINQ\weaponsReport\obj\Debug\net8.0\weaponsReport.genruntimeconfig.cache
+D:\Soft\учёба\новыйЯЮниор\LINQ\weaponsReport\obj\Debug\net8.0\ref\weaponsReport.dll
