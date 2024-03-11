@@ -9,10 +9,10 @@
 
 enum Disease
 {
-    Мигрень,
-    Коронавирус,
-    Грипп,
-    Перелом
+    Migraine,
+    Coronavirus,
+    Flu,
+    Fracture
 }
 
 class Patient
@@ -43,16 +43,16 @@ class Database
 
     private void AddPatients()
     {
-        _patients.Add(new Patient("Иванов Иван", 35, Disease.Мигрень));
-        _patients.Add(new Patient("Петров Петр", 45, Disease.Коронавирус));
-        _patients.Add(new Patient("Сидоров Сидор", 25, Disease.Грипп));
-        _patients.Add(new Patient("Алексеев Алексей", 50, Disease.Перелом));
-        _patients.Add(new Patient("Никитин Никита", 30, Disease.Мигрень));
-        _patients.Add(new Patient("Андреев Андрей", 40, Disease.Коронавирус));
-        _patients.Add(new Patient("Михайлов Михаил", 55, Disease.Грипп));
-        _patients.Add(new Patient("Александров Александр", 28, Disease.Перелом));
-        _patients.Add(new Patient("Дмитриев Дмитрий", 42, Disease.Мигрень));
-        _patients.Add(new Patient("Степанов Степан", 38, Disease.Коронавирус));
+        _patients.Add(new Patient("Иванов Иван", 35, Disease.Migraine));
+        _patients.Add(new Patient("Петров Петр", 45, Disease.Coronavirus));
+        _patients.Add(new Patient("Сидоров Сидор", 25, Disease.Flu));
+        _patients.Add(new Patient("Алексеев Алексей", 50, Disease.Fracture));
+        _patients.Add(new Patient("Никитин Никита", 30, Disease.Migraine));
+        _patients.Add(new Patient("Андреев Андрей", 40, Disease.Coronavirus));
+        _patients.Add(new Patient("Михайлов Михаил", 55, Disease.Flu));
+        _patients.Add(new Patient("Александров Александр", 28, Disease.Fracture));
+        _patients.Add(new Patient("Дмитриев Дмитрий", 42, Disease.Migraine));
+        _patients.Add(new Patient("Степанов Степан", 38, Disease.Coronavirus));
     }
 
     public void FilterByDisease(Disease disease)
