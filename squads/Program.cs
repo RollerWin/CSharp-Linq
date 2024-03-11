@@ -49,13 +49,14 @@ class Squad
 
     public List<Soldier> RemoveSoldiers()
     {
-        var removedSoldiers = _soldiers.Where(soldier => soldier.Name.StartsWith("Б")).ToList();
+        string selectedWord = "Б";
+        var removedSoldiers = _soldiers.Where(soldier => soldier.Name.StartsWith(selectedWord)).ToList();
         _soldiers = _soldiers.Except(removedSoldiers).ToList();
 
         return removedSoldiers;
     } 
 
-    public void AddSoldiers(List<Soldier> newSoldiers) => _soldiers = _soldiers.Concat(newSoldiers).ToList();
+    public void AddSoldiers(List<Soldier> newSoldiers) => _soldiers = _soldiers.Union(newSoldiers).ToList();
 
     public void ShowSquad()
     {
